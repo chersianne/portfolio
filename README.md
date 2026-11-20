@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="./snoopy%20pic.jpg" alt="Snoopy library banner" width="100%" />
 
 ### ੯‧̀͡⬮ `Unknown`
 
