@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/banner.png" alt="Cozy cottagecore library banner with Snoopy" width="100%" />
+
 ### ੯‧̀͡⬮ `Unknown`
 
 *1st Year BSIT (Web Development) · Snoopy’s quiet reading nook & small web experiments*
@@ -24,7 +26,7 @@ Hi! I'm **Unknown**, a 1st-year BSIT student learning web development one line o
 
 Keep your coursework neat in a `./labs/` folder (or link directly to dedicated lab repositories) and update the status as each task comes together:
 
-| Lab / Activity |File / Folder Link |
+| Lab / Activity | Focus Area | File / Folder Link | Notes |
 | :--- | :--- | :--- | :--- |
 | **Lab 01** | Semantic HTML & Page Structure | [`./labs/lab01-semantic-page.html`](./labs/lab01-semantic-page.html) | Clean headings & landmarks |
 | **Lab 02** | Cottagecore Cards & Flexbox/Grid | [`./labs/lab02-layout-cards.css`](./labs/lab02-layout-cards.css) | Earthy palette & card spacing |
@@ -45,6 +47,7 @@ Keep your coursework neat in a `./labs/` folder (or link directly to dedicated l
 
 - **GitHub:** [`github.com/Unknown`](https://github.com/Unknown)
 - **Instagram:** [`@Unknown`](https://instagram.com/)
+- **LinkedIn:** [`linkedin.com/in/Unknown`](https://linkedin.com/)
 - **Email:** [`Unknown@example.com`](mailto:Unknown@example.com)
 
 ---
