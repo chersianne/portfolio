@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="snoopy%20pic.jpg" width="900" alt="Library Snoopy Banner">
+<img src="snoopy%20pic.jpg" width="1000" alt="Library Snoopy Banner">
 
 <br>
 
