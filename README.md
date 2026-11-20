@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="snoopy%pic_1500x500.jpg" width="1000" >
+<img src="snoopy%20pic_1500x500.jpg" width="1000" alt="Library Snoopy Banner">
 
 <br>
 
 ### ₊˚⊹ ᰔ ੯‧̀͡⬮ ˎˊ˗
 
-<h1>Hello, World! Chris Anne </h1>
+<h1>Hello, World! I'm Unknown 🧺📖</h1>
 
 <p>
   <em>"Quietly coding in the corner of the library, one line at a time."</em>
@@ -20,7 +20,7 @@
 
 ---
 
-## ABOUT ME !
+## 📖 ABOUT ME
 
 Hi there! I'm **Unknown**, a first-year **BS Information Technology (Web Development)** student who loves cozy aesthetics, good books, and building clean things for the web. 
 
@@ -50,7 +50,7 @@ Right now, my repository is like a freshly opened notebook—filled with beginne
 
 ## 🗂️ LAB TASKS ARCHIVE
 
-A little index of my coursework, lab activities, and practice files.
+A tidy little index of my coursework, lab activities, and practice files.
 
 <details open>
 <summary><b>📁 Midterm Lab Tasks</b></summary>
