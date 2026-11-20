@@ -1,42 +1,116 @@
 <div align="center">
 
+<img src="snoopy%20pic.jpg" width="900" alt="Library Snoopy Banner">
 
-### ੯‧̀͡⬮ `Unknown`
+<br>
 
-*1st Year BSIT (Web Development) · Snoopy library notes & web dev labs*
+### ₊˚⊹ ᰔ ੯‧̀͡⬮ ˎˊ˗
+
+<h1>Hello, World! I'm Unknown 🧺📖</h1>
+
+<p>
+  <em>"Quietly coding in the corner of the library, one line at a time."</em>
+</p>
+
+![BSIT](https://img.shields.io/badge/BSIT_1st_Year-9CAF88?style=flat-square&logoColor=white)
+![Web Dev](https://img.shields.io/badge/Web_Development-D4A373?style=flat-square&logoColor=white)
+![Library Mode](https://img.shields.io/badge/Status-Reading_&_Coding-8B6F5E?style=flat-square&logoColor=white)
 
 </div>
 
 ---
 
-### About Me
+## ABOUT ME !
 
-Hi! I'm **Unknown**, a 1st-year BSIT student focusing on web development. I use this space to keep track of my class labs, practice building clean web pages, and save useful links as I learn. ੯‧̀͡⬮
+Hi there! I'm **Unknown**, a first-year **BS Information Technology (Web Development)** student who loves cozy aesthetics, good books, and building clean things for the web. 
 
----
+Right now, my repository is like a freshly opened notebook—filled with beginner experiments, class exercises, and small steps toward becoming a better developer.
 
-### Lab Tasks & Files
-
-| Lab / Activity | Topic | File / Folder Link | Status |
-| :--- | :--- | :--- | :--- |
-| **Lab 01** | Semantic HTML & Page Structure | [`./labs/lab01-semantic-page.html`](./labs/lab01-semantic-page.html) | Done |
-| **Lab 02** | CSS Layouts (Flexbox & Grid) | [`./labs/lab02-layout-cards.css`](./labs/lab02-layout-cards.css) | Done |
-| **Lab 03** | Interactive DOM & Forms | [`./labs/lab03-dom-practice.js`](./labs/lab03-dom-practice.js) | In progress |
-| **Lab 04** | Responsive Mini Site | [`./labs/lab04-responsive-site/`](./labs/lab04-responsive-site/) | Upcoming |
+- 🌱 **Currently learning:** HTML, CSS, JavaScript & programming fundamentals
+- 💻 **Focused on:** Frontend design, responsive layouts, and clean code
+- 📚 **Cozy corner:** Books, journaling, warm drinks, and Snoopy (`੯‧̀͡⬮`)
+- ✉️ **Status:** Open to learning, study buddies, and beginner-friendly collabs!
 
 ---
 
-### Socials & Links
+## 🪵 BOOKSHELF & TOOLS
 
-- **GitHub:** [`github.com/Unknown`](https://github.com/Unknown)
-- **Instagram:** [`@Unknown`](https://instagram.com/)
-- **LinkedIn:** [`linkedin.com/in/Unknown`](https://linkedin.com/)
-- **Email:** [`Unknown@example.com`](mailto:Unknown@example.com)
+**Languages & Web Basics**
+
+![HTML5](https://img.shields.io/badge/HTML5-D4A373?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-9CAF88?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-E6CCB2?style=for-the-badge&logo=javascript&logoColor=5C4D42)
+
+**Workspace**
+
+![VS Code](https://img.shields.io/badge/VS_Code-8B6F5E?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-5C4D42?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🗂️ LAB TASKS ARCHIVE
+
+A tidy little index of my coursework, lab activities, and practice files.
+
+<details open>
+<summary><b>📁 Midterm Lab Tasks</b></summary>
+<br>
+
+| Task | Topic / Description | File |
+| :--- | :--- | :---: |
+| **Lab Task 01** | Basic HTML structure & semantic page layout | [View](YOUR_LINK_HERE) |
+| **Lab Task 02** | CSS styling, typography & color palettes | [View](YOUR_LINK_HERE) |
+| **Lab Task 03** | Coming soon... | — |
+
+</details>
+
+<details>
+<summary><b>📁 Final Lab Tasks</b></summary>
+<br>
+
+| Task | Topic / Description | File |
+| :--- | :--- | :---: |
+| **Final Task 01** | Coming soon... | — |
+| **Final Task 02** | Coming soon... | — |
+
+</details>
+
+<details>
+<summary><b>🕯️ Mini Web Experiments</b></summary>
+
+- `01.` Personal portfolio draft — *in progress*
+- `02.` More small projects loading soon...
+
+</details>
+
+---
+
+## ✉️ LEAVE A NOTE (SOCIALS)
+
+Feel free to connect or say hi!
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D4A373?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+&nbsp;
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-9CAF88?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+&nbsp;
+<a href="https://www.instagram.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/Instagram-E6CCB2?style=for-the-badge&logo=instagram&logoColor=5C4D42" alt="Instagram">
+</a>
+&nbsp;
+<a href="https://www.facebook.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/Facebook-8B6F5E?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+</a>
 
 ---
 
 <div align="center">
 
-<sub>1st-year web dev portfolio · ੯‧̀͡⬮</sub>
+`📖 Chapter 1: Learning the basics — updated regularly.`
+
+**੯‧̀͡⬮** · 🌿 · 🕯️ · 📚
 
 </div>
