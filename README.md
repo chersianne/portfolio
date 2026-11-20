@@ -4,13 +4,9 @@
 
 <br>
 
-### ₊˚⊹ ᰔ ੯‧̀͡⬮ ˎˊ˗
 
-<h1>Hello, World! I'm Unknown 🧺📖</h1>
+<h1>Hello, World! I'm Chris Anne Ramos ੯‧̀͡⬮ ˎˊ˗ </h1>
 
-<p>
-  <em>"Quietly coding in the corner of the library, one line at a time."</em>
-</p>
 
 ![BSIT](https://img.shields.io/badge/BSIT_1st_Year-9CAF88?style=flat-square&logoColor=white)
 ![Web Dev](https://img.shields.io/badge/Web_Development-D4A373?style=flat-square&logoColor=white)
@@ -20,15 +16,15 @@
 
 ---
 
-## 📖 ABOUT ME
+## ABOUT ME !
 
-Hi there! I'm **Unknown**, a first-year **BS Information Technology (Web Development)** student who loves cozy aesthetics, good books, and building clean things for the web. 
+Hi there! I'm **Chris Anne Ramos**, a first-year **BS Information Technology (Web Development)** student who loves cozy aesthetics, good books, and building clean things for the web. 
 
 Right now, my repository is like a freshly opened notebook—filled with beginner experiments, class exercises, and small steps toward becoming a better developer.
 
 - 🌱 **Currently learning:** HTML, CSS, JavaScript & programming fundamentals
 - 💻 **Focused on:** Frontend design, responsive layouts, and clean code
-- 📚 **Cozy corner:** Books, journaling, warm drinks, and Snoopy (`੯‧̀͡⬮`)
+- 📚 **Cozy corner:** Books, journaling, Iced coffee, and Snoopy (`੯‧̀͡⬮`)
 - ✉️ **Status:** Open to learning, study buddies, and beginner-friendly collabs!
 
 ---
@@ -111,6 +107,6 @@ Feel free to connect or say hi!
 
 `📖 Chapter 1: Learning the basics — updated regularly.`
 
-**੯‧̀͡⬮** · 🌿 · 🕯️ · 📚
+**੯‧̀͡⬮** 
 
 </div>
