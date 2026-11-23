@@ -18,14 +18,14 @@
 
 ## ABOUT ME !
 
-Hi there! I'm **Chris Anne Ramos**, a first-year **BS Information Technology (Web Development)** student who loves cozy aesthetics, good books, and building clean things for the web. 
+Hi there! I'm **Chris Anne Ramos**, a first-year **BS Information Technology (Web Development)** student who loves snoopy, good books, and learn how to code. 
 
-Right now, my repository is like a freshly opened notebook—filled with beginner experiments, class exercises, and small steps toward becoming a better developer.
+Right now, my repository is like a freshly opened notebook filled with beginner experiments, class exercises, and small steps toward becoming a better developer.
 
 - 🌱 **Currently learning:** HTML, CSS, JavaScript & programming fundamentals
-- 💻 **Focused on:** Frontend design, responsive layouts, and clean code
+- 💻 **Focused on:** Frontend design, responsive layouts, and code
 - 📚 **Cozy corner:** Books, journaling, Iced coffee, and Snoopy (`੯‧̀͡⬮`)
-- ✉️ **Status:** Open to learning, study buddies, and beginner-friendly collabs!
+- ✉️ **Status:** Open to learning, study buddies, and beginner friendly collabs!
 
 ---
 
@@ -46,7 +46,7 @@ Right now, my repository is like a freshly opened notebook—filled with beginne
 
 ## 🗂️ LAB TASKS ARCHIVE
 
-A tidy little index of my coursework, lab activities, and practice files.
+A little index of my coursework, lab activities, and practice files.
 
 <details open>
 <summary><b>📁 Midterm Lab Tasks</b></summary>
@@ -85,19 +85,19 @@ A tidy little index of my coursework, lab activities, and practice files.
 
 Feel free to connect or say hi!
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:chersianne@gmail.com">
   <img src="https://img.shields.io/badge/Email-D4A373?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 &nbsp;
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/chersianne">
   <img src="https://img.shields.io/badge/GitHub-9CAF88?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 &nbsp;
-<a href="https://www.instagram.com/YOUR_USERNAME">
+<a href="https://www.instagram.com/chersianne">
   <img src="https://img.shields.io/badge/Instagram-E6CCB2?style=for-the-badge&logo=instagram&logoColor=5C4D42" alt="Instagram">
 </a>
 &nbsp;
-<a href="https://www.facebook.com/YOUR_USERNAME">
+<a href="https://www.facebook.com/cr0issant">
   <img src="https://img.shields.io/badge/Facebook-8B6F5E?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
 </a>
 
