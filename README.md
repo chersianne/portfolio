@@ -85,7 +85,7 @@ A little index of my coursework, lab activities, and practice files.
 
 Feel free to connect or say hi!
 
-<a href="mailto:chersianne@gmail.com">
+<a href="mailto:ramoscc@students.nu-clark.edu.ph">
   <img src="https://img.shields.io/badge/Email-D4A373?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 &nbsp;
